@@ -21,12 +21,8 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## Description
 
-how that is used to output information for your store in the console.
-
-My project is about a store that sells drinks. I chose to create this store because I wanted to create something like a boba tea store. For the superclass of my code, it was a drink. When ordering a drink from my store, the customer would have to choose which drink they wanted, the size, and how many drinks. Then the price for the drink would also be inputted. In the program, these components were turned to instance variables in the superclass.
+My project is about a store that sells drinks. I chose to create this store because I wanted to create something like a boba tea store. For the superclass of my code, it was a drink. When ordering a drink from my store, the customer would have to choose which drink they want, the size, and how many drinks. Then the price for the drink would also be inputted. In the program, these components were turned to instance variables in the superclass. And if no specific drink was ordered then the no argument constructor or the default value would be water.
 
 Then I created two subclasses, boba and soda. This was to represent the types of drinks. In the boba subclass, it would ask if the boba is a milk tea. Then for the soda class, it would see if the soda is in a can and if the customer wanted ice.
 
-The response that I expect from my program is to tell me information about the order. What happens when the values are inputted in (using the parameterized constructor), then when a value is changed (using the mutator method), and then when the order is inputted, inputted then outputted (overriding the toString). With this expectation, I would have the values
-
-*ask aiello about if I should just multiply everything together and then output the total price
+The response that I expect from my program is to tell me information about the order. What happens when the values are inputted in (using the parameterized constructor), then when a value is changed (using the mutator method), and then when the order is inputted, inputted then outputted (overriding the toString method). With this expectation, I would have the values show how the informations is stored and then how it can be used to complete orders for my buisness.
